@@ -2,7 +2,8 @@ from turtle import *
 
 def pattern(clr1,clr2):
 
-	width(2)	color("black",clr1)
+	width(2)	
+	color("black",clr1)
 
 	begin_fill()
 
